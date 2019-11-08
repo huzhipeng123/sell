@@ -9,6 +9,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
  * @Version 1.0
  * @Content
  */
+
 public interface ProductCategoryRepository extends JpaRepository<ProductCategory, Integer> {
 
 }
